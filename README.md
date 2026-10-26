@@ -23,7 +23,7 @@ An interactive Excel dashboard analyzing sales, profit, and customer behavior.
 - Most profitable age group: 60-74
 
 ## Tools Used
-- Excel: Pivot Tables, Pivot Charts, Slicers, Power Query
+- Excel: Pivot Tables, Pivot Charts, Slicers,Switch Function
 
 ## Files
 - `Sales_Dashboard.xlsx`: the dashboard and data
